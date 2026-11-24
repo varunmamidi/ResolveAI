@@ -12,9 +12,9 @@ const options: swaggerJsdoc.Options = {
     },
     servers: [
       {
-        url: "http://localhost:5000",
-        description: "Local Development Server"
-      }
+        url: "/",
+        description: "ResolveAI API Server"
+    }
     ],
     components: {
       securitySchemes: {
