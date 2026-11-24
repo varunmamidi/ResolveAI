@@ -15,3 +15,7 @@ coverage/
 
 .vscode/
 .idea/
+
+*.dump
+*.backup    
+*.tsbuildinfo
